@@ -1,0 +1,1 @@
+Conducted exploratory data analysis using Python to study gender inequality and development factors across countries. Developed interactive visualizations including 5D scatter plots, heatmaps, and pie charts to reveal correlations between education, gender equality, and economic indicators. 
